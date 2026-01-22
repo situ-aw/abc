@@ -2,7 +2,7 @@
   "name": "賭けボーリング対戦アプリ",
   "short_name": "ボーリング対戦",
   "description": "チーム対抗ボーリング対戦のポイント計算アプリ",
-  "start_url": "/bowling-battle.html",
+  "start_url": "./bowling-battle.html",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
